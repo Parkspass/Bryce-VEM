@@ -1,0 +1,36 @@
+{
+    "name": "Bryce Count",
+    "short_name": "BryceCount",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "theme_color": "#FF6633",
+    "background_color": "#FFFFFF",
+    "icons": [
+        {
+            "src": "icons/pwa_icons/android-chrome-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icons/pwa_icons/android-chrome-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "icons/pwa_icons/apple-touch-icon.png",
+            "type": "image/png",
+            "sizes": "180x180"
+        },
+        {
+            "src": "icons/pwa_icons/favicon-16x16.png",
+            "type": "image/png",
+            "sizes": "16x16"
+        },
+        {
+            "src": "icons/pwa_icons/favicon-32x32.png",
+            "type": "image/png",
+            "sizes": "32x32"
+        }
+    ]
+}
